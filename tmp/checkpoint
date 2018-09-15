@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/chance/machine_learning/hands_on_machine_learning/tmp/ex9_12_save.ckpt"
+all_model_checkpoint_paths: "/Users/chance/machine_learning/hands_on_machine_learning/tmp/ex9_12_save.ckpt"
