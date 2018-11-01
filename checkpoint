@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/chancezhang/machine_learning/hands_on_machine_learning/C11_Model_BN.ckpt"
+all_model_checkpoint_paths: "/Users/chancezhang/machine_learning/hands_on_machine_learning/C11_Model_BN.ckpt"
